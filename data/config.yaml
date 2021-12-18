@@ -1,12 +1,11 @@
-name: Jacky Zhao
+name: Tomodachi94
 enableToc: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  My notes about computers, Linux, cool (but sometimes complex) software, and other random stuff.
 page_title:
-  Quartz Example Page
+  The Penguin Book
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://twitter.com/realtomodachi94
+  - link_name: GitHub
+    link: https://github.com/tomodachi94
